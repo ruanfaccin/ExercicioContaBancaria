@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B05D8FB8-A968-47A6-A96D-6FFBA3A50A87}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExCursoEncapsulamento/ContaBancaria.cs">
+    <Files>
+      <File FileName="ExCursoEncapsulamento/Program.cs" Line="51" Column="1" IsPinned="True" />
+      <File FileName="ExCursoEncapsulamento/ContaBancaria.cs" Line="8" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExCursoEncapsulamento PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
